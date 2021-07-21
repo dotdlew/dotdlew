@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 I am a Salt Lake City native with a passion for cybersecurity and web development. Ask me about my homelab.
 
-![alt text](https://raw.githubusercontent.com/dotdlew/dotdlew/main/256x-coding-bootcamp-full-stack-developer-certificate.1.png)
+![alt text](https://raw.githubusercontent.com/dotdlew/dotdlew/main/assets/images/UofU-VIRT-BO-FSF-PT-01-2021-U-B/256x-coding-bootcamp-full-stack-developer-certificate.1.png)
