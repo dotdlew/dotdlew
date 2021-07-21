@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="14dc7d47-bca9-4ca2-bbb3-00236c5d6dad" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-![alt text](https://www.credly.com/badges/14dc7d47-bca9-4ca2-bbb3-00236c5d6dad/public_url)
+![alt text](https://raw.githubusercontent.com/dotdlew/dotdlew/main/coding-bootcamp-full-stack-developer-certificate.1.png)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
