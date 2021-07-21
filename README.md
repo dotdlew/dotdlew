@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 ![alt text](https://github.com/dotdlew/dotdlew/blob/main/256x-coding-bootcamp-full-stack-developer-certificate.1.png?raw=true)
 -->
+I am a Salt Lake City native with a passion for cybersecurity and web development. Ask me about my homelab.
+
 ![alt text](https://raw.githubusercontent.com/dotdlew/dotdlew/main/256x-coding-bootcamp-full-stack-developer-certificate.1.png)
