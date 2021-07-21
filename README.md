@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 I am a Salt Lake City native with a passion for cybersecurity and web development. Ask me about my homelab.
 
-![full stack developer badge](https://raw.githubusercontent.com/dotdlew/dotdlew/main/assets/images/UofU-VIRT-BO-FSF-PT-01-2021-U-B/256x-coding-bootcamp-full-stack-developer-certificate.1.png)=256x
+<img src="assets/images/UofU-VIRT-BO-FSF-PT-01-2021-U-B/256x-coding-bootcamp-full-stack-developer-certificate.1.png" width="200">
 
-![security plus logo](https://raw.githubusercontent.com/dotdlew/dotdlew/main/assets/images/SecurityPlus%20Certified%20CE/SecurityPlus%20Logo%20Certified%20CE.png)=256x
+<img src="assets/images/SecurityPlus%20Certified%20CE/SecurityPlus%20Logo%20Certified%20CE.png" width="200">
