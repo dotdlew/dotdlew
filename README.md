@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://raw.githubusercontent.com/dotdlew/dotdlew/main/coding-bootcamp-full-stack-developer-certificate.1.png)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/dotdlew/dotdlew/main/256x-coding-bootcamp-full-stack-developer-certificate.1.png)
+![alt text](https://github.com/dotdlew/dotdlew/blob/main/256x-coding-bootcamp-full-stack-developer-certificate.1.png?raw=true)
