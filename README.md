@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![alt text](https://github.com/dotdlew/dotdlew/blob/main/256x-coding-bootcamp-full-stack-developer-certificate.1.png?raw=true)
 -->
 I am a Salt Lake City native with a passion for cybersecurity and web development. Ask me about my homelab.
 
-<img src="assets/images/UofU-VIRT-BO-FSF-PT-01-2021-U-B/256x-coding-bootcamp-full-stack-developer-certificate.1.png" width="128">
+<img src="assets\images\UofU-VIRT-BO-FSF-PT-01-2021-U-B\256x-coding-bootcamp-full-stack-developer-certificate.1.png" width="128">
 <img src="assets\images\CSIS Certified CE\CSIS Logo Certified CE.png" width="128">
 <img src="assets\images\CIOS Certified CE\CIOS Logo Certified CE.png" width="128">
-<img src="assets/images/SecurityPlus%20Certified%20CE/SecurityPlus%20Logo%20Certified%20CE.png" width="128">
-<img src="assets/images/NetworkPlus%20Certified%20CE/NetworkPlus%20Logo%20Certified%20CE.png" width="128">
-<img src="assets/images/APlus%20Certified%20CE/APlus%20Logo%20Certified%20CE.png" width="128">
+<img src="assets\images\SecurityPlus Certified CE\SecurityPlus Logo Certified CE.png" width="128">
+<img src="assets\images\NetworkPlus Certified CE\NetworkPlus Logo Certified CE.png" width="128">
+<img src="assets\images\APlus Certified CE\APlus Logo Certified CE.png" width="128">
